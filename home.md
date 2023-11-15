@@ -1,7 +1,7 @@
 # **Getting Started With Raspberry Pi Super Starter Kit**
 
 
-## 1.Description：
+## Description：
 
 Raspberry Pi is a credit-card sized computer of low cost with Raspberry Pi OS as its official system and can be taken as a personal server and router. Furthermore, it extends out 40 pins to link with sensors or modules, which makes conducting all kind of experiments possible. You could get a camera monitor by plugging a camera to Raspberry Pi. Equally, the voice interactive function could be achieved if a microphone or a camera is connected with it.
 
@@ -11,7 +11,7 @@ Raspberry Pi and electronic components are controlled via C language here.
 
 
 
-## 2.Kit List：
+## Kit List：
 
 When you get this kit, please confirm whether all components listed below have been delivered.
 
@@ -65,7 +65,7 @@ When you get this kit, please confirm whether all components listed below have b
 
 
 
-## 3.Install Raspberry Pi OS System：
+## Install Raspberry Pi OS System：
 
 **Hardware Tool**
 
@@ -207,7 +207,7 @@ Download Address：
 
 ![](c/media/3e0526d601054847d1b1feee8384dbbe.png)
 
-## 4.Install Raspberry Pi OS on Raspberry Pi 4B
+## Install Raspberry Pi OS on Raspberry Pi 4B
 
 Insert TFT RAM card to card reader, then interface card reader to USB port of computer.
 
@@ -396,7 +396,7 @@ Click“OK”or“Enter”, you will view the desktop of Raspberry Pi OS, as sho
 Now, we finish the basic configuration of Raspberry Pi OS
 
 
-## 5.Resources：
+## Resources：
 
 1.  <https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/6>
 
