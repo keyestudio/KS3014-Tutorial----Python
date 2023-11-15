@@ -4149,15 +4149,3 @@ return 0;
 <https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/sys_time.h.html>
 
 
-
-## Resources：
-
-1.  <https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/6>
-
-2.  <https://wiki.keyestudio.com/KS3001(3002,_3003,.....3012%EF%BC%89Raspberry_Pi_Complete_Device_Kit>
-
-3.  <https://www.raspberrypi.org/documentation/installation/installing-images/README.md>
-
-4.  <https://www.raspberrypi.org/software/>
-
-5.  https://fs.keyestudio.com/KS3014

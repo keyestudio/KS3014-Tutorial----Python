@@ -3842,14 +3842,5 @@ if __name__ == '__main__':   ##Program entry
         GPIO.cleanup()
 ```
 
-### 7.Resources：
 
-1.  [https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/6](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/6)
-
-2.  https://wiki.keyestudio.com/KS3001(3002,_3003,.....3012%EF%BC%89Raspberry_Pi_Complete_Device_Kit
-3.  [https://www.raspberrypi.org/documentation/installation/installing-images/README.md](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
-
-4.  [https://www.raspberrypi.org/software/](https://www.raspberrypi.org/software/)
-
-5.  [https://fs.keyestudio.com/KS3014](https://fs.keyestudio.com/KS3014)
 

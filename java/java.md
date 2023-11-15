@@ -1,4 +1,4 @@
-# ** Processing JAVA tutorials**
+# **Processing JAVA tutorials**
 
 We recommend you to learn the Python and C language tutorials about this kit firstly. We demonstrate how to install Raspberry Pi OS, fix IP address and remote login.
 

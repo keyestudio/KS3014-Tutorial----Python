@@ -1,4 +1,4 @@
-# **KS3014 Raspberry Pi Super Starter Kit**
+# **Getting Started With Raspberry Pi Super Starter Kit**
 
 
 ## 1.Description：
@@ -37,7 +37,7 @@ When you get this kit, please confirm whether all components listed below have b
 |              L293D Chip               |      1       | <img src="c/media/c2c155294f770976d009900cc996eefe.png" style="zoom:25%;" /> |
 |    1 Digit 7-segment  LED Display     |      1       | <img src="c/media/44f6ed69f58b019b0ba472702daafa1f.png" style="zoom:50%;" /> |
 |    4 Digit 7-segment  LED Display     |      1       | <img src="c/media/bd1f6bca550938a634da14b7574ce97c.png" style="zoom:50%;" /> |
-|          8\*8 LED Dot Matrix          |      1       | <img src="c/media/a0ede53942fca2727aed9a9930129780.png" style="zoom:67%;" /> |
+|          8*8 LED Dot Matrix          |      1       | <img src="c/media/a0ede53942fca2727aed9a9930129780.png" style="zoom:67%;" /> |
 |           1602 LCD Display            |      1       | <img src="c/media/ab2009681c764ad0c6281cc0fc404338.jpeg" style="zoom:50%;" /> |
 |                 Servo                 |      1       | <img src="c/media/e28493649f65fa5c30538a88efd27d43.jpeg" style="zoom:50%;" /> |
 |         ULN2003 Driver Board          |      1       | <img src="c/media/efe23615da298d4eb8dd5e431f86015e.png" style="zoom:50%;" /> |
