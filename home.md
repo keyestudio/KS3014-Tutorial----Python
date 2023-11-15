@@ -17,51 +17,51 @@ When you get this kit, please confirm whether all components listed below have b
 
 |           **Product Name**            | **Quantity** |                         **Picture**                          |
 | :-----------------------------------: | :----------: | :----------------------------------------------------------: |
-|         GPIO Extension Board          |      1       | <img src="c/media/3af182663cfe16478339230a4588f7d5.png" style="zoom:50%;" /> |
+|         GPIO Extension Board          |      1       | ![](c/media/3af182663cfe16478339230a4588f7d5.png) |
 |              LED - Green              |      5       | ![image-20230421082803230](c/media/image-20230421082803230.png) |
 |               LED - Red               |      10      | ![image-20230421082812905](c/media/image-20230421082812905.png)![image-20230421082813657](c/media/image-20230421082813657.png) |
 |             LED - Yellow              |      5       | ![image-20230421082828831](c/media/image-20230421082828831.png) |
 |               LED - RGB               |      1       | ![image-20230421082835288](c/media/image-20230421082835288.png) |
 |             220Ω Resistor             |      10      | ![image-20230421082840388](c/media/image-20230421082840388.png) |
 |             10KΩ Resistor             |      10      | ![image-20230421082844999](c/media/image-20230421082844999.png) |
-|             100Ω Resistor             |      10      | <img src="c/media/96200e59add7e804b04d4af6b1864148.png" style="zoom:50%;" /> |
-|          10KΩ Potentiometer           |      1       | <img src="c/media/bbf20bffeac2379c141410e00fc22cfe.png" style="zoom:50%;" /> |
-|             Active Buzzer             |      1       | <img src="c/media/f05a177b0d2d9c0effccf535151bbfdb.png" style="zoom:50%;" /> |
-|            Passive Buzzer             |      1       | <img src="c/media/d1ea1bb2b2749820cab389d5b85b838b.png" style="zoom:50%;" /> |
-|             Button Sensor             |      4       | <img src="c/media/018a31800765761e285d89284ad71075.png" style="zoom:67%;" /> |
+|             100Ω Resistor             |      10      | ![](c/media/96200e59add7e804b04d4af6b1864148.png) |
+|          10KΩ Potentiometer           |      1       | ![](c/media/bbf20bffeac2379c141410e00fc22cfe.png) |
+|             Active Buzzer             |      1       | ![](c/media/f05a177b0d2d9c0effccf535151bbfdb.png) |
+|            Passive Buzzer             |      1       | ![](c/media/d1ea1bb2b2749820cab389d5b85b838b.png) |
+|             Button Sensor             |      4       | ![](c/media/018a31800765761e285d89284ad71075.png) |
 |           Ball Tilt Sensor            |      2       | ![image-20230421082912660](c/media/image-20230421082912660.png)![image-20230421082912831](c/media/image-20230421082912831.png) |
 |             Photoresistor             |      3       | ![image-20230421082922071](c/media/image-20230421082922071.png)![image-20230421082922285](c/media/image-20230421082922285.png)![image-20230421082922455](c/media/image-20230421082922455.png) |
 |             Flame Sensor              |      1       | ![image-20230421082931222](c/media/image-20230421082931222.png) |
 |       LM35DZ Temperature Sensor       |      1       | ![image-20230421082937638](c/media/image-20230421082937638.png) |
-|             74HC595N Chip             |      1       | <img src="c/media/4c653a3dd887b27f8cef84b7a16ad35c.png" style="zoom:50%;" /> |
-|              L293D Chip               |      1       | <img src="c/media/c2c155294f770976d009900cc996eefe.png" style="zoom:25%;" /> |
-|    1 Digit 7-segment  LED Display     |      1       | <img src="c/media/44f6ed69f58b019b0ba472702daafa1f.png" style="zoom:50%;" /> |
-|    4 Digit 7-segment  LED Display     |      1       | <img src="c/media/bd1f6bca550938a634da14b7574ce97c.png" style="zoom:50%;" /> |
-|          8*8 LED Dot Matrix          |      1       | <img src="c/media/a0ede53942fca2727aed9a9930129780.png" style="zoom:67%;" /> |
-|           1602 LCD Display            |      1       | <img src="c/media/ab2009681c764ad0c6281cc0fc404338.jpeg" style="zoom:50%;" /> |
-|                 Servo                 |      1       | <img src="c/media/e28493649f65fa5c30538a88efd27d43.jpeg" style="zoom:50%;" /> |
-|         ULN2003 Driver Board          |      1       | <img src="c/media/efe23615da298d4eb8dd5e431f86015e.png" style="zoom:50%;" /> |
-|           5V Stepper Motor            |      1       | <img src="c/media/8ebb14a35091dc8d02d95cb6748dd1e9.png" style="zoom: 25%;" /> |
-|     PCF8591 A/D Converter Module      |      1       | <img src="c/media/99a773f39b28fa8d8d09665e67d7c8fa.png" style="zoom:25%;" /> |
-|            Joystick Module            |      1       | <img src="c/media/dc66680eb5fb489fd577c9c66d03ec15.png" style="zoom:50%;" /> |
-|             Relay Module              |      1       | <img src="c/media/b0d26e6eea0e84c833f7f535fec9cf54.png" style="zoom:67%;" /> |
-|             Sound Module              |      1       | <img src="c/media/e315ef2757b4154299e38350c4e93462.png" style="zoom:33%;" /> |
+|             74HC595N Chip             |      1       | ![](c/media/4c653a3dd887b27f8cef84b7a16ad35c.png) |
+|              L293D Chip               |      1       | ![](c/media/c2c155294f770976d009900cc996eefe.png) |
+|    1 Digit 7-segment  LED Display     |      1       | ![](c/media/44f6ed69f58b019b0ba472702daafa1f.png) |
+|    4 Digit 7-segment  LED Display     |      1       | ![](c/media/bd1f6bca550938a634da14b7574ce97c.png) |
+|          8*8 LED Dot Matrix          |      1       | ![](c/media/a0ede53942fca2727aed9a9930129780.png) |
+|           1602 LCD Display            |      1       | ![](c/media/ab2009681c764ad0c6281cc0fc404338.jpeg) |
+|                 Servo                 |      1       | ![](c/media/e28493649f65fa5c30538a88efd27d43.jpeg) |
+|         ULN2003 Driver Board          |      1       | ![](c/media/efe23615da298d4eb8dd5e431f86015e.png) |
+|           5V Stepper Motor            |      1       | ![](c/media/8ebb14a35091dc8d02d95cb6748dd1e9.png) |
+|     PCF8591 A/D Converter Module      |      1       | ![](c/media/99a773f39b28fa8d8d09665e67d7c8fa.png) |
+|            Joystick Module            |      1       | ![](c/media/dc66680eb5fb489fd577c9c66d03ec15.png) |
+|             Relay Module              |      1       | ![](c/media/b0d26e6eea0e84c833f7f535fec9cf54.png) |
+|             Sound Module              |      1       | ![](c/media/e315ef2757b4154299e38350c4e93462.png) |
 |           PIR Motion Sensor           |      1       | ![image-20230421083152487](c/media/image-20230421083152487.png) |
-|        MQ-2 Analog Gas Sensor         |      1       | <img src="c/media/23c8cf53545ee20d4be213d977e4ee07.png" style="zoom:50%;" /> |
+|        MQ-2 Analog Gas Sensor         |      1       | ![](c/media/23c8cf53545ee20d4be213d977e4ee07.png) |
 |       HC-SR04 Ultrasonic Sensor       |      1       | ![image-20230421083125225](c/media/image-20230421083125225.png) |
 | DHT11 Temperature and Humidity Sensor |      1       | ![image-20230421083143096](c/media/image-20230421083143096.png) |
 |         Soil Humidity Sensor          |      1       | ![image-20230421083137705](c/media/image-20230421083137705.png) |
 |          Water Level Sensor           |      1       |       ![](c/media/a1a7fef3c00950e483fd52c9f6afb956.png)        |
 |                 Motor                 |      1       | ![image-20230421083208123](c/media/image-20230421083208123.png) |
 |              Water Pump               |      1       | ![image-20230421083213914](c/media/image-20230421083213914.png) |
-|                  Fan                  |      1       | <img src="c/media/7b68e9b402d47300b9fa37a00e22371c.png" style="zoom:25%;" /> |
-|              Water Pipe               |      1       | <img src="./FILES/KS3014.md/img-20230411140248.png" style="zoom:25%;" /> |
-|          830-Hole Breadboard          |      1       | <img src="c/media/c5aadd2106124e3a345af17ce33176ca.png" style="zoom:50%;" /> |
+|                  Fan                  |      1       | ![](c/media/7b68e9b402d47300b9fa37a00e22371c.png) |
+|              Water Pipe               |      1       | ![](./FILES/KS3014.md/img-20230411140248.png) |
+|          830-Hole Breadboard          |      1       | ![](c/media/c5aadd2106124e3a345af17ce33176ca.png) |
 |      Male to Female  DuPont Line      |      20      | ![image-20230421083240480](c/media/image-20230421083240480.png) |
 |              Jumper Wire              |      30      | ![image-20230421083246232](c/media/image-20230421083246232.png) |
 |              40-Pin Line              |      1       | ![image-20230421083253744](c/media/image-20230421083253744.png) |
 |              Screwdriver              |      1       |       ![](c/media/04efadf25e085be8b0f03379c4242e28.png)        |
-|     Resistance Color  Code Table      |      1       | ![image-20230421083308812](c/media/image-20230421083308812.png) |
+|     Resistance Color  Code Table      |      1       | ![](c/media/image-20230421083308812.png) |
 
 
 

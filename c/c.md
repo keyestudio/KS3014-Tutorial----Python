@@ -40,11 +40,11 @@ This extension board is led out by 40-pin headers of Raspberry Pi for convenient
 
 Note: the silk mark is also printed according to BCM GPIO number.
 
-<img src="media/5b4223076c8f4f19ccf62039f929eafd.png" style="zoom:67%;" />
+![](media/5b4223076c8f4f19ccf62039f929eafd.png)
 
 Connection Diagram
 
-<img src="media/9ffda4057d1a225502e509706e841b6a.png" style="zoom:67%;" />
+![](media/9ffda4057d1a225502e509706e841b6a.png)
 
 
 
@@ -2869,7 +2869,7 @@ MQ-2 gas sensor is a multi-purpose and cost-effective. It can detect the concent
 
 It could show the characters or numbers in 16 rows and 2 columns.
 
-<img src="media/28f90ce528bf6fe3d6f1475ac055c3b5.png" style="zoom:67%;" />
+![](media/28f90ce528bf6fe3d6f1475ac055c3b5.png)
 
 **1602 LCD Pins:**
 
