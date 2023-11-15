@@ -2,7 +2,9 @@
 
 We recommend you to learn the Python and C language tutorials about this kit firstly. We demonstrate how to install Raspberry Pi OS, fix IP address and remote login.
 
-## 1.Install processing IDE
+## Preparations for Python
+
+### Install processing IDE
 
 1. Processing Website：https://pi.processing.org/get-started/
 
@@ -42,7 +44,7 @@ Its interface is shown below:
 
 ![](./media/a2d2aa31dfe59f7ac02d3c6f087b8766-1697687663715-8.png)
 
-## 2.Use Processing IDE
+### Use Processing IDE
 
 Enter the code in the editor 
 
@@ -68,7 +70,7 @@ A notification will appear if the input code is wrong. Don’t worry about it. C
 
 ![](./media/81aaa8cd362ff420f45541ccb372984c-1697687663715-13.png)
 
-## 3.Copy Example Code to Raspberry Pi
+### Copy Example Code to Raspberry Pi
 
 Copy the Processing-Code.zip to sketchbook folder and unzip it, as shown below:
 
@@ -76,7 +78,7 @@ Copy the Processing-Code.zip to sketchbook folder and unzip it, as shown below:
 
 ![](./media/71e9e546e01bce892a350b53b8699e6e-1697687663715-15.png)
 
-## 4.Projects
+## Projects
 
 **Note: G, - and GND marked on sensors and modules are so-called negative, which are connected to GND of GPIO extension board or “-” of breadboard; V、+、VCC are known as positive, which are interfaced 3V3 or 5V on extension board and“+”on breadboard**.
 

@@ -3,11 +3,6 @@
 # **Python Tutorial**
 
 
-## <span style="color: rgb(255, 76, 65);">Resources</span>
-
-Download code and more details, please refer to the following link: [https://fs.keyestudio.com/KS3014](https://fs.keyestudio.com/KS3014)
-
-
 ## Preparations for Python
 
 Python is a programming language that lets you work more quickly and integrate your systems more effectively.
