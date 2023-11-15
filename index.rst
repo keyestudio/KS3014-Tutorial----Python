@@ -1,10 +1,13 @@
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: KS3014 Raspberry Pi Super Starter Kit Python
 
 
-   KS3014.md
+   home.md
+   c/c.md
+   java/java.md
+   python/python.md
 
 
 
