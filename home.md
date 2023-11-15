@@ -1,6 +1,7 @@
 # **Getting Started With Raspberry Pi Super Starter Kit**
 
-
+## Download code and library
+[https://fs.keyestudio.com/KS3014](https://fs.keyestudio.com/KS3014)
 ## Description：
 
 Raspberry Pi is a credit-card sized computer of low cost with Raspberry Pi OS as its official system and can be taken as a personal server and router. Furthermore, it extends out 40 pins to link with sensors or modules, which makes conducting all kind of experiments possible. You could get a camera monitor by plugging a camera to Raspberry Pi. Equally, the voice interactive function could be achieved if a microphone or a camera is connected with it.
@@ -406,4 +407,4 @@ Now, we finish the basic configuration of Raspberry Pi OS
 
 4.  <https://www.raspberrypi.org/software/>
 
-5.  https://fs.keyestudio.com/KS3014
+
