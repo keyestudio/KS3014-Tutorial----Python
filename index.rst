@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KS3014 Raspberry Pi Super Starter Kit Python
+   :caption: KS3014 Raspberry Pi Super Starter Kit 
 
 
    home.md
